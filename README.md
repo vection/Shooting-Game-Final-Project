@@ -79,6 +79,7 @@ bounds and areas the bot can walk on and navigate
 Unreal component that help out character to decide about he’s next step (use
 very lightly).
 
+![WhatsApp Image 2019-10-02 at 19 22 27](https://user-images.githubusercontent.com/28596354/66063004-2c4c0c00-e54b-11e9-9331-1ca1078e2be7.jpeg)
 
 Figure 3: an example of a behavior tree and blackboard
 
@@ -90,6 +91,7 @@ your bot is seeing now. the green field represents the nav mash which is the
 area the bot can navigate in and the big dots are the EQS area’s which the bot
 taking into consideration in terms of escape and attack.
 
+![WhatsApp Image 2019-10-02 at 19 24 50](https://user-images.githubusercontent.com/28596354/66063034-3e2daf00-e54b-11e9-932c-2121557a82bb.jpeg)
 
 Figure 4: an example of a behavior tree and blackboard
 
