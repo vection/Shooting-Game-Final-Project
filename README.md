@@ -1,4 +1,4 @@
-# FPS Shooting Game
+# FPS Game
 
 # Final Report
 
