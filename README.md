@@ -6,7 +6,7 @@
 #### September 2019
 
 ##### * Due to heavy weight of the project only base code uploaded
-##### * Full link & Video may be available soon
+##### * Video Review https://youtu.be/AWQGf6WZMDs 
 
 ## Introduction
 This project is about development in the industry - standard game engine Unreal
