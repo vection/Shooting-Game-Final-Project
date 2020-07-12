@@ -2,7 +2,7 @@
 
 # Final Report
 
-### Aviv Harazi, Maor Bakshi, Neil Michaeli, Advisor: Dr. Dan Ophir
+### Aviv Harazi, Maor Bakshi, Neil Michaeli
 #### September 2019
 
 ##### * Due to heavy weight of the project only base code uploaded
